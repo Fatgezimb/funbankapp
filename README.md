@@ -1,2 +1,1 @@
-# funbankapp
-fun banking app. 
+# Fun bank app
